@@ -1,0 +1,7 @@
+## USEFUL LINKS ##
+
+### Color for the printf():
+    http://web.theurbanpenguin.com/adding-color-to-your-output-from-c/
+
+### Random number rand():
+    https://stackoverflow.com/questions/1190870/i-need-to-generate-random-numbers-in-c
